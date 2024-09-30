@@ -7,12 +7,12 @@ module.exports = {
   title: 'RepHelper Documentation',
   tagline: 'Documentação Técnica do RepHelper',
   url: 'https://leosaponisouza.github.io', // Substitua pelo seu nome de usuário
-  baseUrl: '/rephelper-docs/', // Nome do repositório com barras
+  baseUrl: '/rep-helper-docs/', // Nome do repositório com barras
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'leosaponisouza', // Seu nome de usuário ou organização no GitHub
-  projectName: 'rephelper-docs', // Nome do repositório
+  projectName: 'rep-helper-docs', // Nome do repositório
   trailingSlash: false, // Importante para o GitHub Pages
   deploymentBranch: 'gh-pages', // Padrão para o GitHub Pages
   themeConfig: {
@@ -25,7 +25,7 @@ module.exports = {
       items: [
         { type: 'doc', docId: 'home', position: 'left', label: 'Documentação' },
         {
-          href: 'https://github.com/leosaponisouza/rephelper-docs',
+          href: 'https://github.com/leosaponisouza/rep-helper-docs',
           label: 'GitHub',
           position: 'right',
         },

@@ -7,7 +7,7 @@ module.exports = {
   title: 'RepHelper Documentation',
   tagline: 'Documentação Técnica do RepHelper',
   url: 'https://leosaponisouza.github.io', // Substitua pelo seu nome de usuário
-  baseUrl: '/rep-helper-docs/', // Nome do repositório com barras
+  baseUrl: '/', // Nome do repositório com barras
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
